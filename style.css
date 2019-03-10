@@ -5,7 +5,7 @@
             stroke-width: 10px;
         }
         #d3slider svg line.track-inset {
-            stroke: steelblue;
+            stroke: grey;
             stroke-width: 8px;
             border-radius:5px;
         }
@@ -16,7 +16,7 @@
             cursor: pointer;
         }
         #d3slider svg .handle {
-            fill: red;
+            fill: lightgreen;
             stroke: #000;
         }
         #d3slider svg line.track-overlay, #d3slider svg line.track, #d3slider svg line.track-inset {
